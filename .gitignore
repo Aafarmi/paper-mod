@@ -1,0 +1,20 @@
+# gradle
+.gradle/
+
+# build
+build/
+out/
+
+# idea
+.idea/
+*.iml
+
+# fabric
+run/
+
+# logs
+logs/
+
+# system
+.DS_Store
+Thumbs.db
