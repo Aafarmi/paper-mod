@@ -266,12 +266,6 @@ NNN
 
 后续可以在这里添加模组截图。
 
-示例：
-
-```md
-![Diamond Apple](images/diamond_apple.png)
-```
-
 ---
 
 # 关于这个项目
