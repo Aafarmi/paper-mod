@@ -1,3 +1,4 @@
+[English](README.md)
 # Paper Mod and More Apple
 
 一个简单的 Minecraft Fabric 模组，主要添加了纸质装备与更多苹果。
