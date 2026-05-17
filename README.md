@@ -1,3 +1,4 @@
+[English](README.md)
 # Paper Mod and More Apple
 
 A simple Minecraft Fabric mod that adds paper equipment and more apples.
