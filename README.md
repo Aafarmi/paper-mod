@@ -266,13 +266,7 @@ NNN
 
 # Screenshots
 
-You can place your screenshots here later.
 
-Example:
-
-```md
-![Diamond Apple](images/diamond_apple.png)
-```
 
 ---
 
