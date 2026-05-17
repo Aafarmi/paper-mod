@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "key":{
+    "P":{
+      "item":"papermod:hardpaper"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result":{
+    "id":"papermod:hardpaper_apple",
+    "count":1
+  }
+}

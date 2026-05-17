@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "PPP",
+    " # ",
+    " # "
+  ],
+  "key":{
+    "P":{
+      "item":"papermod:hardpaper"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":{
+    "id":"papermod:paper_pickaxe",
+    "count":1
+  }
+}

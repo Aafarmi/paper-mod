@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "papermod",
+  "version": "${version}",
+  "name": "papermod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/paper-mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.mymod.paperMod.client.PaperModDataGenerator"
+    ],
+    "client": [
+      "com.mymod.paperMod.client.PaperModClient"
+    ],
+    "main": [
+      "com.mymod.paperMod.PaperMod"
+    ]
+  },
+  "mixins": [
+    "paper-mod.mixins.json",
+    {
+      "config": "paper-mod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

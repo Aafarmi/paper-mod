@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "P P",
+    "PPP",
+    "PPP"
+  ],
+  "key":{
+    "P":{
+      "item":"papermod:hardpaper"
+    }
+  },
+  "result":{
+    "id":"papermod:hardpaper_chestplate",
+    "count":1
+  }
+}

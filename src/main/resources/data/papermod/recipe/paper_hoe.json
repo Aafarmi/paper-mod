@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "PP ",
+    " # ",
+    " # "
+  ],
+  "key":{
+    "P":{
+      "item":"papermod:hardpaper"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":{
+    "id":"papermod:paper_hoe",
+    "count":1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "PPP",
+    "PAP",
+    "PPP"
+  ],
+  "key":{
+    "P":{
+      "item":"minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "papermod:enchanted_diamond_apple"
+    }
+  },
+  "result":{
+    "id":"papermod:enchanted_netherite_apple",
+    "count":1
+  }
+}

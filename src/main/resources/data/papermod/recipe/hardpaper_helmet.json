@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "PPP",
+    "P P",
+    "   "
+  ],
+  "key":{
+    "P":{
+      "item":"papermod:hardpaper"
+    }
+  },
+  "result":{
+    "id":"papermod:hardpaper_helmet",
+    "count":1
+  }
+}

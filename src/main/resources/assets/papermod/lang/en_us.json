@@ -1,0 +1,19 @@
+{
+  "item.papermod.paper_pickaxe": "Paper Pickaxe",
+  "item.papermod.paper_axe": "Paper Axe",
+  "item.papermod.paper_sword": "Paper Sword",
+  "item.papermod.paper_shovel": "Paper Shovel",
+  "item.papermod.paper_hoe": "Paper Hoe",
+  "item.papermod.hardpaper": "Hardpaper",
+  "item.papermod.hardpaper_boots": "HardPaperBoots",
+  "item.papermod.hardpaper_helmet": "HardPaperHelmet",
+  "item.papermod.hardpaper_chestplate": "HardPaperChestplate",
+  "item.papermod.hardpaper_leggings": "HardPaperLeggings",
+  "item.papermod.hardpaper_apple": "HardpaperApple",
+  "item.papermod.copper_apple": "CopperApple",
+  "item.papermod.iron_apple": "IronApple",
+  "item.papermod.diamond_apple": "DiamondApple",
+  "item.papermod.netherite_apple": "NetheriteApple",
+  "item.papermod.enchanted_diamond_apple": "EnchantedDiamondApple",
+  "item.papermod.enchanted_netherite_apple": "EnchantedNetheriteApple"
+}

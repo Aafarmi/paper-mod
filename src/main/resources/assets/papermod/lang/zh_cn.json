@@ -1,0 +1,19 @@
+{
+  "item.papermod.paper_pickaxe": "纸稿",
+  "item.papermod.paper_axe": "纸斧",
+  "item.papermod.paper_sword": "纸剑",
+  "item.papermod.paper_shovel": "纸铲",
+  "item.papermod.paper_hoe": "纸锄",
+  "item.papermod.hardpaper": "硬纸",
+  "item.papermod.hardpaper_boots": "硬纸靴",
+  "item.papermod.hardpaper_helmet": "硬纸头盔",
+  "item.papermod.hardpaper_chestplate": "硬纸胸甲",
+  "item.papermod.hardpaper_leggings": "硬纸护腿",
+  "item.papermod.hardpaper_apple": "硬苹果",
+  "item.papermod.copper_apple": "铜苹果",
+  "item.papermod.iron_apple": "铁苹果",
+  "item.papermod.diamond_apple": "钻石苹果",
+  "item.papermod.netherite_apple": "下届合金苹果",
+  "item.papermod.enchanted_diamond_apple": "附魔钻石苹果",
+  "item.papermod.enchanted_netherite_apple": "附魔下界合金苹果"
+}
