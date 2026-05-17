@@ -1,4 +1,9 @@
-[中文](README_ZH.md)
+<!-- README.md -->
+
+<p align="right">
+  <a href="README_ZH.md">简体中文</a>
+</p>
+
 # Paper Mod and More Apple
 
 A simple Minecraft Fabric mod that adds paper equipment and more apples.
@@ -21,15 +26,24 @@ Suggestions and feedback are welcome!
 
 ## New Paper Equipment
 
-Added a full set of paper-style tools crafted from hardened paper materials.
+Added a full set of paper-style tools and armor crafted from hardened paper materials.
 
 Including:
+
+### Tools
 
 - Paper Sword
 - Paper Pickaxe
 - Paper Axe
 - Paper Shovel
 - Paper Hoe
+
+### Armor
+
+- Hardpaper Helmet
+- Hardpaper Chestplate
+- Hardpaper Leggings
+- Hardpaper Boots
 
 ---
 
@@ -39,13 +53,157 @@ Added several new apples to Minecraft.
 
 Current additions include:
 
+- Hard Apple
+- Copper Apple
+- Iron Apple
 - Diamond Apple
+- Netherite Apple
+- Enchanted Diamond Apple
+- Enchanted Netherite Apple
+
+Each apple has its own crafting recipe and special value.
 
 More apples may be added in future updates.
 
 ---
 
-# Crafting
+# Crafting Recipes
+
+## Hardpaper
+
+Crafted with 9 papers.
+
+```text
+PPP
+PPP
+PPP
+```
+
+- `P` = Paper
+
+---
+
+# Paper Tools
+
+## Paper Sword
+
+```text
+H
+H
+S
+```
+
+- `H` = Hardpaper
+- `S` = Stick
+
+---
+
+## Paper Pickaxe
+
+```text
+HHH
+ S
+ S
+```
+
+---
+
+## Paper Axe
+
+```text
+HH
+HS
+ S
+```
+
+---
+
+## Paper Shovel
+
+```text
+H
+S
+S
+```
+
+---
+
+## Paper Hoe
+
+```text
+HH
+ S
+ S
+```
+
+---
+
+# Hardpaper Armor
+
+## Hardpaper Helmet
+
+```text
+HHH
+H H
+```
+
+---
+
+## Hardpaper Chestplate
+
+```text
+H H
+HHH
+HHH
+```
+
+---
+
+## Hardpaper Leggings
+
+```text
+HHH
+H H
+H H
+```
+
+---
+
+## Hardpaper Boots
+
+```text
+H H
+H H
+```
+
+---
+
+# Apples
+
+## Copper Apple
+
+```text
+CCC
+CAC
+CCC
+```
+
+- `C` = Copper Ingot
+- `A` = Apple
+
+---
+
+## Iron Apple
+
+```text
+III
+IAI
+III
+```
+
+- `I` = Iron Ingot
+
+---
 
 ## Diamond Apple
 
@@ -56,7 +214,44 @@ DDD
 ```
 
 - `D` = Diamond
-- `A` = Apple
+
+---
+
+## Netherite Apple
+
+```text
+NNN
+NAN
+NNN
+```
+
+- `N` = Netherite Ingot
+
+---
+
+## Enchanted Diamond Apple
+
+```text
+DDD
+DED
+DDD
+```
+
+- `D` = Diamond
+- `E` = Enchanted Golden Apple
+
+---
+
+## Enchanted Netherite Apple
+
+```text
+NNN
+NEN
+NNN
+```
+
+- `N` = Netherite Ingot
+- `E` = Enchanted Golden Apple
 
 ---
 
